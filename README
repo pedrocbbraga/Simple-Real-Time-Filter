@@ -1,0 +1,1 @@
+Implemented a simple IIR filter in JUCE within the PluginProcessor.cpp's processBlock function. Buildable as AU, VST3, standalone plug-in. Tested in Ableton Live 12 Suite.
