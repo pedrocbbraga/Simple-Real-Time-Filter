@@ -1,0 +1,60 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+<<<<<<< HEAD
+# Fortran module files
+*.mod
+*.smod
+
+=======
+>>>>>>> 6c5550d (Commitgit add .git add .)
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+<<<<<<< HEAD
+# Executables
+*.exe
+*.out
+*.app
+=======
+# Executables and binaries
+*.exe
+*.out
+*.app
+
+# Build artifacts (JUCE)
+Builds/**/build/
+Builds/**/Makefile
+Builds/**/Makefile.*
+JuceLibraryCode/
+
+# Ignore Projucer-generated intermediate files
+*.jucer.lock
+
+# macOS system files
+.DS_Store
+
+# IDEs and settings
+.idea/
+*.xcworkspace/
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+>>>>>>> 6c5550d (Commitgit add .git add .)
